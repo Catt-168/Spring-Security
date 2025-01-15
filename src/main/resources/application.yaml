@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: SpringSecurityExercise
+  security:
+    user:
+      name: Sat Paing
+      password: 12345
