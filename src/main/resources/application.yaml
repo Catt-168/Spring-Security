@@ -5,3 +5,10 @@ spring:
     user:
       name: Sat Paing
       password: 12345
+  datasource:
+    url: jdbc:postgresql://localhost:5432/spring_security
+    username: postgres
+    password: 12345
+    driver-class-name: org.postgresql.Driver
+
+

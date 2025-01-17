@@ -1,4 +1,4 @@
-package com.kindergarten.SpringSecurityExercise;
+package com.kindergarten.SpringSecurityExercise.model;
 
 
 public class Student {
